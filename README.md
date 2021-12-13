@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img  height="256px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img height="256px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <p>
 
 ## About me
@@ -78,8 +78,11 @@
 ## My Stats
 
 <br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rEnergYr&count_private=true&show_icons=trueline_height=21&theme=dracula">
+  
+<p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rEnergYr&count_private=true&show_icons=trueline_height=21&theme=dracula">&nbsp;
+  <a href="https://app.daily.dev/EnergY_"><img height="197px" src="https://api.daily.dev/devcards/a85314732ebb474aa089249083e5fd5b.png?r=j2t" alt="Elric's Dev Card"/>   </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
