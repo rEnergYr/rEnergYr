@@ -7,14 +7,10 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/rEnergYr" />
-</p>
-
-<p align="center">
 <br>
 <a href="https://twitter.com/rEnergYr_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://fr.linkedin.com/in/elric-gumbau-30943417a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://steamcommunity.com/profiles/76561198155406077/"><img src="https://img.shields.io/badge/steam-2a475e.svg?&style=for-the-badge&logo=steam" alt="Steam" /></a>&nbsp;
+<a href="https://steamcommunity.com/id/renergyr"><img src="https://img.shields.io/badge/steam-2a475e.svg?&style=for-the-badge&logo=steam" alt="Steam" /></a>&nbsp;
 </p>
 
 <p align="center">
@@ -40,7 +36,7 @@
 <br>
 
 <details>
-<summary>Programming language</summary>
+<summary>Programming languages</summary>
 <br>
 <img src="https://img.shields.io/badge/-TypeScript%20-%23323330?style=for-the-badge&logo=typescript">&nbsp;
 <img src="https://img.shields.io/badge/-Sass%20-%23323330?style=for-the-badge&logo=sass"> 
@@ -48,7 +44,7 @@
 <br>
 
 <details>
-<summary>Framework</summary>
+<summary>Frameworks</summary>
 <br>
 <img src="https://img.shields.io/badge/-Vue.js%20-%23323330?style=for-the-badge&logo=vue.js">&nbsp;
 <img src="https://img.shields.io/badge/-Fastify-%23323330?style=for-the-badge&logo=fastify">
@@ -59,6 +55,7 @@
 <summary>Programming Tools</summary>
 <br>
 <img src="https://img.shields.io/badge/-Node.js-%23323330?style=for-the-badge&logo=node.js">&nbsp;
+<img src="https://img.shields.io/badge/-Vite-%23323330?style=for-the-badge&logo=vite">&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-%23323330?style=for-the-badge&logo=mongodb">&nbsp;
 <img src="https://img.shields.io/badge/-Node%20Red-%23323330?style=for-the-badge&logo=node-red&logoColor=red">
 </details>
@@ -68,7 +65,7 @@
 <summary>Others</summary>
 <br>
 <img src="https://img.shields.io/badge/-macOS-%23323330?style=for-the-badge&logo=apple">&nbsp;
-<img src="https://img.shields.io/badge/-VS%20Code-%23323330?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">&nbsp;
+<img src="https://img.shields.io/badge/Webstorm-%23323330?style=for-the-badge&logo=webstorm&logoColor=blue">&nbsp;
 <img src="https://img.shields.io/badge/Insomnia-%23323330?style=for-the-badge&logo=insomnia">&nbsp;
 <img src="https://img.shields.io/badge/Brave-%23323330?style=for-the-badge&logo=brave">
 </details>
@@ -86,4 +83,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
-Last Edited on: 13/12/2021
+Last Edited on: 05/01/2022
