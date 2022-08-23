@@ -22,7 +22,7 @@
 <br>
 
 - 🦄 My name is Elric Gumbau.
-- ⚡ I'm 22 years old.
+- ⚡ I'm 23 years old.
 - 🇫🇷 I am a French FullStack Developer.
 - 💚 I am completely passionate about frontend development and backend development.
 - 📪 I am currently developer <a href="https://www.carl-software.fr/" target="_blank">@CARL Software</a>.
@@ -47,17 +47,20 @@
 <summary>Frameworks</summary>
 <br>
 <img src="https://img.shields.io/badge/-Vue.js%20-%23323330?style=for-the-badge&logo=vue.js">&nbsp;
-<img src="https://img.shields.io/badge/-Fastify-%23323330?style=for-the-badge&logo=fastify">
+<img src="https://img.shields.io/badge/-AdonisJS-%23323330?style=for-the-badge&logo=AdonisJS">
 </details>
 <br>
 
 <details>
 <summary>Programming Tools</summary>
 <br>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23323330?style=for-the-badge&logo=IntelliJ%20IDEA">&nbsp;
+<img src="https://img.shields.io/badge/Postman-%23323330?style=for-the-badge&logo=Postman">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-%23323330?style=for-the-badge&logo=node.js">&nbsp;
 <img src="https://img.shields.io/badge/-Vite-%23323330?style=for-the-badge&logo=vite">&nbsp;
+<img src="https://img.shields.io/badge/-Docker-%23323330?style=for-the-badge&logo=Docker">&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-%23323330?style=for-the-badge&logo=mongodb">&nbsp;
-<img src="https://img.shields.io/badge/-Node%20Red-%23323330?style=for-the-badge&logo=node-red&logoColor=red">
+<img src="https://img.shields.io/badge/-MySQL-%23323330?style=for-the-badge&logo=MySQL">
 </details>
 <br>
 
@@ -65,8 +68,10 @@
 <summary>Others</summary>
 <br>
 <img src="https://img.shields.io/badge/-macOS-%23323330?style=for-the-badge&logo=apple">&nbsp;
-<img src="https://img.shields.io/badge/Webstorm-%23323330?style=for-the-badge&logo=webstorm&logoColor=blue">&nbsp;
-<img src="https://img.shields.io/badge/Insomnia-%23323330?style=for-the-badge&logo=insomnia">&nbsp;
+<img src="https://img.shields.io/badge/-Logitech-%23323330?style=for-the-badge&logo=Logitech">&nbsp;
+<img src="https://img.shields.io/badge/Notion-%23323330?style=for-the-badge&logo=Notion">&nbsp;
+<img src="https://img.shields.io/badge/figma-%23323330?style=for-the-badge&logo=Figma">&nbsp;
+<img src="https://img.shields.io/badge/Discord-%23323330?style=for-the-badge&logo=Discord">&nbsp;
 <img src="https://img.shields.io/badge/Brave-%23323330?style=for-the-badge&logo=brave">
 </details>
 
@@ -83,4 +88,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
-Last Edited on: 05/01/2022
+Last Edited on: 23/08/2022
