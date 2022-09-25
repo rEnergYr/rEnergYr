@@ -25,7 +25,7 @@
 - ⚡ I'm 23 years old.
 - 🇫🇷 I am a French FullStack Developer.
 - 💚 I am completely passionate about frontend development and backend development.
-- 📪 I am currently developer <a href="https://www.carl-software.fr/" target="_blank">@CARL Software</a>.
+- 📪 I am currently a research engineer <a href="https://www.berger-levrault.com/us" target="_blank">@Berger-Levrault</a>.
 - 💬 Ask me about anything, I am happy to help.
 - 🎉 I love listening to music, watching movies & series and playing some video games !
 
@@ -68,11 +68,10 @@
 <summary>Others</summary>
 <br>
 <img src="https://img.shields.io/badge/-macOS-%23323330?style=for-the-badge&logo=apple">&nbsp;
-<img src="https://img.shields.io/badge/-Logitech-%23323330?style=for-the-badge&logo=Logitech">&nbsp;
 <img src="https://img.shields.io/badge/Notion-%23323330?style=for-the-badge&logo=Notion">&nbsp;
 <img src="https://img.shields.io/badge/figma-%23323330?style=for-the-badge&logo=Figma">&nbsp;
-<img src="https://img.shields.io/badge/Discord-%23323330?style=for-the-badge&logo=Discord">&nbsp;
-<img src="https://img.shields.io/badge/Brave-%23323330?style=for-the-badge&logo=brave">
+<img src="https://img.shields.io/badge/Brave-%23323330?style=for-the-badge&logo=brave">&nbsp;
+<img src="https://img.shields.io/badge/-Logitech-%23323330?style=for-the-badge&logo=Logitech">
 </details>
 
 <br>
@@ -88,4 +87,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
-Last Edited on: 23/08/2022
+Last Edited on: 25/09/2022
