@@ -46,7 +46,7 @@
 <details>
 <summary>Frameworks</summary>
 <br>
-<img src="https://img.shields.io/badge/-Vue.js%20-%23323330?style=for-the-badge&logo=vue.js">&nbsp;
+<img src="https://img.shields.io/badge/-NuxtJS%20-%23323330?style=for-the-badge&logo=nuxt.js">&nbsp;
 <img src="https://img.shields.io/badge/-AdonisJS-%23323330?style=for-the-badge&logo=AdonisJS">
 </details>
 <br>
@@ -87,4 +87,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
-Last Edited on: 25/09/2022
+Last Edited on: 08/10/2022
