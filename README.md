@@ -55,6 +55,7 @@
 <summary>Programming Tools</summary>
 <br>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23323330?style=for-the-badge&logo=IntelliJ%20IDEA">&nbsp;
+<img src="https://img.shields.io/badge/Neovim-%23323330?style=for-the-badge&logo=neovim">&nbsp;
 <img src="https://img.shields.io/badge/Postman-%23323330?style=for-the-badge&logo=Postman">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-%23323330?style=for-the-badge&logo=node.js">&nbsp;
 <img src="https://img.shields.io/badge/-Vite-%23323330?style=for-the-badge&logo=vite">&nbsp;
@@ -87,4 +88,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
-Last Edited on: 08/10/2022
+Last Edited on: 16/10/2022
