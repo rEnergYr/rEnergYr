@@ -8,8 +8,6 @@
 
 <p align="center">
 <br>
-<a href="https://twitter.com/rEnergYr_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://fr.linkedin.com/in/elric-gumbau-30943417a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://steamcommunity.com/id/renergyr"><img src="https://img.shields.io/badge/steam-2a475e.svg?&style=for-the-badge&logo=steam" alt="Steam" /></a>&nbsp;
 </p>
 
@@ -88,4 +86,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
-Last Edited on: 29/05/2023
+Last Edited on: 17/02/2024
