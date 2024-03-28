@@ -46,6 +46,7 @@
 <br>
 <img src="https://img.shields.io/badge/-NuxtJS%20-%23323330?style=for-the-badge&logo=nuxt.js">&nbsp;
 <img src="https://img.shields.io/badge/-AdonisJS-%23323330?style=for-the-badge&logo=AdonisJS">
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-%23323330?style=for-the-badge&logo=TailwindCSS">
 </details>
 <br>
 
