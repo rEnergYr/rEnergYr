@@ -55,7 +55,7 @@
 <br>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23323330?style=for-the-badge&logo=IntelliJ%20IDEA">&nbsp;
 <img src="https://img.shields.io/badge/Neovim-%23323330?style=for-the-badge&logo=neovim">&nbsp;
-<img src="https://img.shields.io/badge/Postman-%23323330?style=for-the-badge&logo=Postman">&nbsp;
+<img src="https://img.shields.io/badge/HTTPie-%23323330?style=for-the-badge&logo=HTTPie">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-%23323330?style=for-the-badge&logo=node.js">&nbsp;
 <img src="https://img.shields.io/badge/-Vite-%23323330?style=for-the-badge&logo=vite">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-%23323330?style=for-the-badge&logo=Docker">&nbsp;
