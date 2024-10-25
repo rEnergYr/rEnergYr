@@ -36,8 +36,9 @@
 <details>
 <summary>Programming languages</summary>
 <br>
+<img src="https://img.shields.io/badge/-Rust%20-%23323330?style=for-the-badge&logo=rust">&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript%20-%23323330?style=for-the-badge&logo=typescript">&nbsp;
-<img src="https://img.shields.io/badge/-Sass%20-%23323330?style=for-the-badge&logo=sass"> 
+<img src="https://img.shields.io/badge/-Sass%20-%23323330?style=for-the-badge&logo=sass">
 </details>
 <br>
 
@@ -56,11 +57,16 @@
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23323330?style=for-the-badge&logo=IntelliJ%20IDEA">&nbsp;
 <img src="https://img.shields.io/badge/Neovim-%23323330?style=for-the-badge&logo=neovim">&nbsp;
 <img src="https://img.shields.io/badge/HTTPie-%23323330?style=for-the-badge&logo=HTTPie">&nbsp;
-<img src="https://img.shields.io/badge/-Node.js-%23323330?style=for-the-badge&logo=node.js">&nbsp;
 <img src="https://img.shields.io/badge/-Vite-%23323330?style=for-the-badge&logo=vite">&nbsp;
-<img src="https://img.shields.io/badge/-Docker-%23323330?style=for-the-badge&logo=Docker">&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-%23323330?style=for-the-badge&logo=mongodb">&nbsp;
-<img src="https://img.shields.io/badge/-MySQL-%23323330?style=for-the-badge&logo=MySQL">
+<img src="https://img.shields.io/badge/-Docker-%23323330?style=for-the-badge&logo=Docker">
+</details>
+<br>
+
+<details>
+<summary>Databases</summary>
+<br>
+<img src="https://img.shields.io/badge/-MySQL-%23323330?style=for-the-badge&logo=MySQL">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-%23323330?style=for-the-badge&logo=mongodb">
 </details>
 <br>
 
@@ -70,7 +76,7 @@
 <img src="https://img.shields.io/badge/-macOS-%23323330?style=for-the-badge&logo=apple">&nbsp;
 <img src="https://img.shields.io/badge/Notion-%23323330?style=for-the-badge&logo=Notion">&nbsp;
 <img src="https://img.shields.io/badge/figma-%23323330?style=for-the-badge&logo=Figma">&nbsp;
-<img src="https://img.shields.io/badge/Brave-%23323330?style=for-the-badge&logo=brave">&nbsp;
+<img src="https://img.shields.io/badge/Arc-%23323330?style=for-the-badge&logo=arc">&nbsp;
 <img src="https://img.shields.io/badge/-Logitech-%23323330?style=for-the-badge&logo=Logitech">
 </details>
 
@@ -87,4 +93,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
-Last Edited on: 18/05/2024
+Last Edited on: 25/10/2024
