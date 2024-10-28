@@ -46,6 +46,7 @@
 <summary>Frameworks</summary>
 <br>
 <img src="https://img.shields.io/badge/-NuxtJS%20-%23323330?style=for-the-badge&logo=nuxt.js">&nbsp;
+<img src="https://img.shields.io/badge/-Svelte-%23323330?style=for-the-badge&logo=Svelte">&nbsp;
 <img src="https://img.shields.io/badge/-AdonisJS-%23323330?style=for-the-badge&logo=AdonisJS">&nbsp;
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-%23323330?style=for-the-badge&logo=TailwindCSS">
 </details>
@@ -55,6 +56,7 @@
 <summary>Programming Tools</summary>
 <br>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23323330?style=for-the-badge&logo=IntelliJ%20IDEA">&nbsp;
+<img src="https://img.shields.io/badge/Zed-%23323330?style=for-the-badge&logo=zed-industries">&nbsp;
 <img src="https://img.shields.io/badge/Neovim-%23323330?style=for-the-badge&logo=neovim">&nbsp;
 <img src="https://img.shields.io/badge/HTTPie-%23323330?style=for-the-badge&logo=HTTPie">&nbsp;
 <img src="https://img.shields.io/badge/-Vite-%23323330?style=for-the-badge&logo=vite">&nbsp;
@@ -93,4 +95,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
-Last Edited on: 25/10/2024
+Last Edited on: 28/10/2024
