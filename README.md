@@ -55,11 +55,8 @@
 <details>
 <summary>Programming Tools</summary>
 <br>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23323330?style=for-the-badge&logo=IntelliJ%20IDEA">&nbsp;
 <img src="https://img.shields.io/badge/Zed-%23323330?style=for-the-badge&logo=zed-industries">&nbsp;
-<img src="https://img.shields.io/badge/Neovim-%23323330?style=for-the-badge&logo=neovim">&nbsp;
 <img src="https://img.shields.io/badge/HTTPie-%23323330?style=for-the-badge&logo=HTTPie">&nbsp;
-<img src="https://img.shields.io/badge/-Vite-%23323330?style=for-the-badge&logo=vite">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-%23323330?style=for-the-badge&logo=Docker">
 </details>
 <br>
@@ -76,8 +73,6 @@
 <summary>Others</summary>
 <br>
 <img src="https://img.shields.io/badge/-macOS-%23323330?style=for-the-badge&logo=apple">&nbsp;
-<img src="https://img.shields.io/badge/Notion-%23323330?style=for-the-badge&logo=Notion">&nbsp;
-<img src="https://img.shields.io/badge/figma-%23323330?style=for-the-badge&logo=Figma">&nbsp;
 <img src="https://img.shields.io/badge/Arc-%23323330?style=for-the-badge&logo=arc">&nbsp;
 <img src="https://img.shields.io/badge/-Logitech-%23323330?style=for-the-badge&logo=Logitech">
 </details>
@@ -95,4 +90,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
 
-Last Edited on: 28/10/2024
+Last Edited on: 04/12/2024
