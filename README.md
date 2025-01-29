@@ -1,19 +1,6 @@
-<p>
-  <h1 align="center"><b>Hello World, I'm Elric 👋</b></h1>
-</p>
-
-<p>
-  <h4 align="center"><b>Night Owl 🦉</b></h4>
-</p>
-
 <p align="center">
-<br>
-<a href="https://steamcommunity.com/id/renergyr"><img src="https://img.shields.io/badge/steam-2a475e.svg?&style=for-the-badge&logo=steam" alt="Steam" /></a>&nbsp;
+  <img src="https://socialify.git.ci/rEnergYr/rEnergYr/image?custom_description=Hello+World%2C+I%27m+Elric+%F0%9F%91%8B&description=1&name=1&pattern=Solid&theme=Dark" alt="rEnergYr" width="640" height="320" />
 </p>
-
-<p align="center">
-  <img height="256px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<p>
 
 ## About me
 
@@ -36,7 +23,6 @@
 <details>
 <summary>Programming languages</summary>
 <br>
-<img src="https://img.shields.io/badge/-Rust%20-%23323330?style=for-the-badge&logo=rust">&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript%20-%23323330?style=for-the-badge&logo=typescript">&nbsp;
 <img src="https://img.shields.io/badge/-Sass%20-%23323330?style=for-the-badge&logo=sass">
 </details>
@@ -55,7 +41,6 @@
 <details>
 <summary>Programming Tools</summary>
 <br>
-<img src="https://img.shields.io/badge/Zed-%23323330?style=for-the-badge&logo=zed-industries">&nbsp;
 <img src="https://img.shields.io/badge/HTTPie-%23323330?style=for-the-badge&logo=HTTPie">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-%23323330?style=for-the-badge&logo=Docker">
 </details>
@@ -65,6 +50,7 @@
 <summary>Databases</summary>
 <br>
 <img src="https://img.shields.io/badge/-MySQL-%23323330?style=for-the-badge&logo=MySQL">&nbsp;
+<img src="https://img.shields.io/badge/-Redis-%23323330?style=for-the-badge&logo=Redis">&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-%23323330?style=for-the-badge&logo=mongodb">
 </details>
 <br>
@@ -73,8 +59,9 @@
 <summary>Others</summary>
 <br>
 <img src="https://img.shields.io/badge/-macOS-%23323330?style=for-the-badge&logo=apple">&nbsp;
-<img src="https://img.shields.io/badge/Arc-%23323330?style=for-the-badge&logo=arc">&nbsp;
-<img src="https://img.shields.io/badge/-Logitech-%23323330?style=for-the-badge&logo=Logitech">
+<img src="https://img.shields.io/badge/Chrome-%23323330?style=for-the-badge&logo=google-chrome">&nbsp;
+<img src="https://img.shields.io/badge/-Logitech-%23323330?style=for-the-badge&logo=Logitech">&nbsp;
+<img src="https://img.shields.io/badge/Figma-%23323330?style=for-the-badge&logo=figma">
 </details>
 
 <br>
@@ -88,6 +75,6 @@
   <a href="https://app.daily.dev/EnergY_"><img height="197px" src="https://api.daily.dev/devcards/a85314732ebb474aa089249083e5fd5b.png?r=j2t" alt="Elric's Dev Card"/>   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding+!)](https://git.io/typing-svg)
 
-Last Edited on: 25/01/2025
+Last Edited on: 29/01/2025
