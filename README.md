@@ -7,7 +7,7 @@
 <br>
 
 - 🦄 My name is Elric Gumbau.
-- ⚡ I'm 25 years old.
+- ⚡ I'm 26 years old.
 - 🇫🇷 I am a French FullStack Developer.
 - 💚 I am completely passionate about frontend development and backend development.
 - 📪 I am currently a research engineer <a href="https://www.berger-levrault.com/us" target="_blank">@Berger-Levrault</a>.
@@ -24,7 +24,7 @@
 <summary>Programming languages</summary>
 <br>
 <img src="https://img.shields.io/badge/-TypeScript%20-%23323330?style=for-the-badge&logo=typescript">&nbsp;
-<img src="https://img.shields.io/badge/-Sass%20-%23323330?style=for-the-badge&logo=sass">
+<img src="https://img.shields.io/badge/-Rust%20-%23323330?style=for-the-badge&logo=rust">
 </details>
 <br>
 
@@ -77,4 +77,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding+!)](https://git.io/typing-svg)
 
-Last Edited on: 29/01/2025
+Last Edited on: 26/06/2025
