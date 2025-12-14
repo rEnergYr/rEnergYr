@@ -1,80 +1,41 @@
-<p align="center">
+<div align="center">
   <img src="https://socialify.git.ci/rEnergYr/rEnergYr/image?custom_description=Hello+World%2C+I%27m+Elric+%F0%9F%91%8B&description=1&name=1&pattern=Solid&theme=Dark" alt="rEnergYr" width="640" height="320" />
-</p>
+</div>
 
-## About me
+## 👋 About Me
 
-<br>
+**Elric Gumbau** • FullStack Developer @ [Berger-Levrault](https://www.berger-levrault.com/us) • 🇫🇷 France
 
-- 🦄 My name is Elric Gumbau.
-- ⚡ I'm 26 years old.
-- 🇫🇷 I am a French FullStack Developer.
-- 💚 I am completely passionate about frontend development and backend development.
-- 📪 I am currently a research engineer <a href="https://www.berger-levrault.com/us" target="_blank">@Berger-Levrault</a>.
-- 💬 Ask me about anything, I am happy to help.
-- 🎉 I love listening to music, watching movies & series and playing some video games !
+Crafting elegant solutions with modern technologies. I love building beautiful, performant applications and exploring new tools that enhance developer experience.
 
-<br>
+💬 Open to collaborations and discussions • 🎵 Music enthusiast • 🎮 Gamer • 🎬 Movie & series lover
 
-## Skills
+👉 Check out my [dotfiles](https://github.com/rEnergYr/dotfiles)
 
-<br>
+## 🚀 Tech Stack
 
-<details>
-<summary>Programming languages</summary>
-<br>
-<img src="https://img.shields.io/badge/-TypeScript%20-%23323330?style=for-the-badge&logo=typescript">&nbsp;
-<img src="https://img.shields.io/badge/-Rust%20-%23323330?style=for-the-badge&logo=rust">
-</details>
-<br>
+### Languages & Frameworks
 
-<details>
-<summary>Frameworks</summary>
-<br>
-<img src="https://img.shields.io/badge/-NuxtJS%20-%23323330?style=for-the-badge&logo=nuxt">&nbsp;
-<img src="https://img.shields.io/badge/-Svelte-%23323330?style=for-the-badge&logo=Svelte">&nbsp;
-<img src="https://img.shields.io/badge/-AdonisJS-%23323330?style=for-the-badge&logo=AdonisJS">&nbsp;
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-%23323330?style=for-the-badge&logo=TailwindCSS">
-</details>
-<br>
+![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89dceb)
+![Nuxt](https://img.shields.io/badge/Nuxt-1e1e2e?style=for-the-badge&logo=nuxt&logoColor=a6e3a1)
+![Svelte](https://img.shields.io/badge/Svelte-1e1e2e?style=for-the-badge&logo=svelte&logoColor=f38ba8)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-1e1e2e?style=for-the-badge&logo=adonisjs&logoColor=cba6f7)
+![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=f38ba8)
 
-<details>
-<summary>Programming Tools</summary>
-<br>
-<img src="https://img.shields.io/badge/HTTPie-%23323330?style=for-the-badge&logo=HTTPie">&nbsp;
-<img src="https://img.shields.io/badge/-Docker-%23323330?style=for-the-badge&logo=Docker">
-</details>
-<br>
+### Environment
 
-<details>
-<summary>Databases</summary>
-<br>
-<img src="https://img.shields.io/badge/-MySQL-%23323330?style=for-the-badge&logo=MySQL">&nbsp;
-<img src="https://img.shields.io/badge/-Redis-%23323330?style=for-the-badge&logo=Redis">&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-%23323330?style=for-the-badge&logo=mongodb">
-</details>
-<br>
+![macOS](https://img.shields.io/badge/macOS-1e1e2e?style=for-the-badge&logo=apple&logoColor=cdd6f4)
+![Ghostty](https://img.shields.io/badge/Ghostty-1e1e2e?style=for-the-badge&logo=ghostty&logoColor=89dceb)
+![Neovim](https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logo=neovim&logoColor=a6e3a1)
+![Tmux](https://img.shields.io/badge/Tmux-1e1e2e?style=for-the-badge&logo=tmux&logoColor=a6e3a1)
+![Nushell](https://img.shields.io/badge/Nushell-1e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=fab387)
 
-<details>
-<summary>Others</summary>
-<br>
-<img src="https://img.shields.io/badge/-macOS-%23323330?style=for-the-badge&logo=apple">&nbsp;
-<img src="https://img.shields.io/badge/Chrome-%23323330?style=for-the-badge&logo=google-chrome">&nbsp;
-<img src="https://img.shields.io/badge/-Logitech-%23323330?style=for-the-badge&logo=Logitech">&nbsp;
-<img src="https://img.shields.io/badge/Figma-%23323330?style=for-the-badge&logo=figma">
-</details>
+---
 
-<br>
+<div align="center">
 
-## My Stats
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3178C6&center=true&vCenter=true&lines=Happy+coding+!+%E2%9C%A8)](https://git.io/typing-svg)
 
-<br>
-  
-<p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rEnergYr&count_private=true&show_icons=trueline_height=21&theme=dracula">&nbsp;
-  <a href="https://app.daily.dev/EnergY_"><img height="197px" src="https://api.daily.dev/devcards/a85314732ebb474aa089249083e5fd5b.png?r=j2t" alt="Elric's Dev Card"/>   </a>
-</p>
+Made with ❤️ and ☕
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Happy+coding+!)](https://git.io/typing-svg)
-
-Last Edited on: 26/06/2025
+</div>
